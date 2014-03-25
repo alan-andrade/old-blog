@@ -74,3 +74,5 @@ I couln't figure out how to echo the message every time you press enter.
 Can you ? Let me know.
 
 [Source cod3](https://github.com/alan-andrade/Doodles/blob/master/rust/echo.rs)
+
+This code was compiled with Rust master branch revision 1e6e98c0c2.
