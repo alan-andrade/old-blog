@@ -8,3 +8,9 @@ categories: tcp servers
 What up.
 
 Here just drafting my blogpost
+
+{% highlight rust linenos %}
+fn main () {
+  print!();
+}
+{% endhighlight %}
