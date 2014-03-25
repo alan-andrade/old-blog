@@ -128,20 +128,15 @@ a:visited { color: #a0a; }
 /*****************************************************************************/
 
 /* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
 
 .post ul, .post ol {
   margin-left: 1.35em;
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
+  padding: 0 .3em;
+  background-color: #222222;
+  color: #eee;
 }
 
 .post pre code {
