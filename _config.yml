@@ -1,0 +1,3 @@
+name: Blog for fake developers
+markdown: redcarpet
+pygments: true
